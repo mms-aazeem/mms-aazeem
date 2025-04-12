@@ -1,36 +1,73 @@
-<h1 align="center">Hi 👋, I'm Aazeem</h1>
-<h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<!-- GitHub README Styled as Web Page -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mms-aazeem&label=Profile%20views&color=0e75b6&style=flat" alt="mms-aazeem" /> </p>
-
-
-- 🔭 I’m currently working on **Student Management System**
-
-- 🌱 I’m currently learning **Laravel, Livewire Flux UI, Tailwind CSS**
-
-- 📝 I regularly write articles on [https://techinfogate.blogspot.com/](https://techinfogate.blogspot.com/)
-
-- 💬 Ask me about **Laravel, PHP**
-
-- 📫 How to reach me **azm53aazim@gmail.com**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mms-aazeem" alt="mms-aazeem" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mms-aazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mms-aazeem" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mms-aazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mms-aazeem" height="30" width="40" /></a>
-<a href="https://www.behance.net/mmsaazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mmsaazeem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bitcoderz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bitcoderz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mms_aazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mms_aazeem" height="30" width="40" /></a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH56o57EhqNRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708943833470?e=1749686400&v=beta&t=t0g-5mSMN5GQW3I7LzlhY9X2pOMYDzYDZCNY5bvoQvs" alt="Header Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Animated Name and Title -->
+<h1 align="center" style="color:#0E75B6; font-size: 42px; font-weight: bold;">Hi 👋, I'm Aazeem</h1>
+<h3 align="center" style="font-style: italic; color: #555;">🚀 Passionate Web Developer | Laravel Artisan</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mms-aazeem&show_icons=true&locale=en&layout=compact" alt="mms-aazeem" /></p>
+<!-- Typing Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&repeat=true&width=550&lines=🚀+Crafting+beautiful+web+experiences;💻+Laravel+%7C+Livewire+%7C+TailwindCSS+%7C+Vue;📚+Lifelong+learner+%E2%9C%8C%EF%B8%8F;🎯+Building+awesome+things+everyday"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mms-aazeem&show_icons=true&locale=en" alt="mms-aazeem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mms-aazeem&" alt="mms-aazeem" /></p>
+---
+
+## 🌟 About Me
+
+- 🔭 Currently working on **Student Management System**
+- 🌱 Learning **Laravel | Livewire | TailwindCSS | Vue**
+- ✍️ Writing articles on [Tech Info Gate](https://techinfogate.blogspot.com/)
+- 💬 Ask me about **Laravel, PHP, Full-stack Development**
+- 📫 Reach me at **azm53aazim@gmail.com**
+- 🎯 Motto: _"Code. Learn. Improve. Repeat."_
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mms-aazeem&theme=algolia&row=1&column=6&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/mms-aazeem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/mms-aazeem"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://www.behance.net/mmsaazeem"><img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/@bitcoderz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/mms_aazeem"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚒️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,js,ts,html,css,react,nodejs,java,mysql,mongodb,python,angular,firebase,figma,git,github,vscode,postman,androidstudio,illustrator,photoshop" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mms-aazeem&show_icons=true&theme=radical&hide=prs&line_height=30" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mms-aazeem&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mms-aazeem&layout=compact&theme=radical" />
+</p>
+
+---
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mms-aazeem&label=Profile%20views&color=0e75b6&style=flat-square" alt="mms-aazeem" />
+</p>
+> _"Good software, like wine, takes time."_ 🍷
