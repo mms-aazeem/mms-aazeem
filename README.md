@@ -19,8 +19,8 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently working on **Student Management System**
-- 🌱 Learning **Laravel | Livewire | TailwindCSS | Vue**
+- 🔭 Currently studying **Laravel**
+- 🌱 Learning **Laravel | Livewire | TailwindCSS **
 - ✍️ Writing articles on [Tech Info Gate](https://techinfogate.blogspot.com/)
 - 💬 Ask me about **Laravel, PHP, Full-stack Development**
 - 📫 Reach me at **azm53aazim@gmail.com**
