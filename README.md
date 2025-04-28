@@ -20,7 +20,7 @@
 ## 🌟 About Me
 
 - 🔭 Currently studying **Laravel**
-- 🌱 Learning **Laravel | Livewire | TailwindCSS **
+- 🌱 Learning **Laravel | Livewire | TailwindCSS**
 - ✍️ Writing articles on [Tech Info Gate](https://techinfogate.blogspot.com/)
 - 💬 Ask me about **Laravel, PHP, Full-stack Development**
 - 📫 Reach me at **azm53aazim@gmail.com**
